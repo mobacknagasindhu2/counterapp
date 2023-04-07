@@ -1,0 +1,50 @@
+
+
+.card {
+display: flex;
+flex-direction:column;
+flex-direction: center;
+align-items: center;
+justify-content: center;
+text-align: center;
+background-image: url("https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png");
+height: 100vh;
+
+}
+.car{
+  color:white;
+}
+.yr{
+  margin-right: 10px;
+  padding:10px;
+
+  border-radius: 10px;
+  border:0px solid none;
+  background-color: blue;
+  color:white
+}
+
+.pik{
+  margin-right: 10px;
+  padding:10px;
+  margin-left: 30px;
+  border-radius: 10px;
+  border:0px solid none;
+  background-color: pink;
+  color:white
+}
+.re{
+  margin-right: 10px;
+  padding:10px;
+  margin-left: 30px;
+  border-radius: 10px;
+  border:0px solid none;
+  background-color: yellow;
+  color:white
+}
+.ca{
+  display:flex;
+  align-items: center;
+
+}
+
